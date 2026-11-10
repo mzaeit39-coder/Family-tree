@@ -41,5 +41,21 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot-1.png",
+      "sizes": "1008x2128",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "شجرة العائلة"
+    },
+    {
+      "src": "screenshot-2.png",
+      "sizes": "1008x2128",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "صفحة العضو"
+    }
   ]
 }
